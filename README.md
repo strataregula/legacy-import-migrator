@@ -2,6 +2,8 @@
 
 AST-based legacy import tracking and migration toolkit for Python codebases undergoing namespace migrations.
 
+[![PyPI](https://img.shields.io/pypi/v/legacy-import-migrator)](https://pypi.org/project/legacy-import-migrator/)
+[![CI](https://github.com/strataregula/legacy-import-migrator/actions/workflows/ci.yml/badge.svg)](https://github.com/strataregula/legacy-import-migrator/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
 
