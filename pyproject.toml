@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "legacy-import-migrator"
-version = "0.1.0"
+version = "0.1.1"
 description = "AST-based legacy import tracking and migration toolkit for Python codebases"
 authors = [
     {name = "Legacy Import Migrator Team", email = "team@strataregula.com"},
