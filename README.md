@@ -1,3 +1,5 @@
+> 👋 新しく参加した方はまず [docs/ONBOARDING.md](docs/ONBOARDING.md) をご覧ください。
+
 > **開発者へ**: 作業開始前に必ず [docs/README_FOR_DEVELOPERS.md](docs/README_FOR_DEVELOPERS.md) を確認してください。
 
 # Legacy Import Migration Toolkit (LIM)
@@ -8,6 +10,9 @@ AST-based legacy import tracking and migration toolkit for Python codebases unde
 [![CI](https://github.com/strataregula/legacy-import-migrator/actions/workflows/ci.yml/badge.svg)](https://github.com/strataregula/legacy-import-migrator/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
+[![RunLog Guard](https://img.shields.io/badge/RunLog-guard-green)](#)
+[![Docs LinkCheck](https://img.shields.io/badge/Docs-linkcheck-green)](#)
+[![PR Size Guard](https://img.shields.io/badge/PR--Size-guard-orange)](#)
 
 ## 🚀 Quick Start (5 minutes)
 
