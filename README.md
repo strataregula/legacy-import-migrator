@@ -1,3 +1,5 @@
+> **開発者へ**: 作業開始前に必ず [docs/README_FOR_DEVELOPERS.md](docs/README_FOR_DEVELOPERS.md) を確認してください。
+
 # Legacy Import Migration Toolkit (LIM)
 
 AST-based legacy import tracking and migration toolkit for Python codebases undergoing namespace migrations.
