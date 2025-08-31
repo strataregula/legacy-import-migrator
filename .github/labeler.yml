@@ -1,4 +1,13 @@
-lim:
-  - '.github/workflows/legacy-imports.yml'
-  - any: ['**/lim_*', '**/*lim*']
-  - 'docs/lim-runbook.md'
+core:
+  - "src/**"
+tests:
+  - "tests/**"
+docs:
+  - "docs/**"
+devex:
+  - ".devcontainer/**"
+  - ".github/**"
+agents:
+  - "AGENTS.md"
+contributing:
+  - "CONTRIBUTING.md"

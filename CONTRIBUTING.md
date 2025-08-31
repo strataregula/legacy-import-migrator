@@ -1,4 +1,8 @@
-# Contributing to Legacy Import Migration Toolkit
+# Contributing
+
+- PR は小さく、1 PR = 1 目的。
+- `docs/run/*.md` に記録する Runログの Summary は必ず非空にしてください。
+- CI must be green before merging.
 
 Thank you for your interest in contributing to the Legacy Import Migration Toolkit! 
 
@@ -150,6 +154,10 @@ For new features, please describe:
 - Open an issue for questions about usage
 - Check existing issues before creating new ones
 - Use clear, descriptive titles
+
+## Documentation
+
+Link to detailed developer documentation: [docs/README_FOR_DEVELOPERS.md](docs/README_FOR_DEVELOPERS.md)
 
 ## 📜 License
 

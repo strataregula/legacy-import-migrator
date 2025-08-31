@@ -1,5 +1,11 @@
-## 🔍 LIM Battle Test Purpose
-Verify legacy-import-migrator CI behavior on world-simulation.
+# Summary
+<!-- 必ず非空。要点1～3行 -->
+
+## Checklist
+- [ ] 1 PR = 1 目的（小さく分割）
+- [ ] `docs/run/*.md` に **Run Log** を追加（Summary 非空, JST）
+- [ ] 影響範囲／ロールバック手順を記述
+- [ ] 変更に対応する **AGENTS.md の手順** を確認/更新済み
 
 ## What Changed
 - Added intentional legacy imports to test LIM detection
